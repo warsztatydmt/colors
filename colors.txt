@@ -1,7 +1,11 @@
 niebieski
 zielony
 <<<<<<< HEAD
+<<<<<<< HEAD
 antracytowy
 =======
+=======
+złoty
+>>>>>>> 74e3c9e4c38aa6dd7fd08bcafd9c2180446b594d
 pomaranczowy
 >>>>>>> 9d621555adc70090c4a49a125627762c5462d20d
