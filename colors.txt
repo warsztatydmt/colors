@@ -1,4 +1,6 @@
 niebieski
+zielony
+nieKolor
 fioletowy
 zielony
 zielony
