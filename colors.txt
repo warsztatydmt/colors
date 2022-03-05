@@ -1,3 +1,5 @@
 niebieski
 zielony
 kobaltowy
+złoty
+pomaranczowy
