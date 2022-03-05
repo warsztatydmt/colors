@@ -1,5 +1,6 @@
 niebieski
 zielony
+kobaltowy
 złoty
 pomaranczowy
 antracytowy
