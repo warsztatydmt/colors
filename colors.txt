@@ -2,3 +2,5 @@ niebieski
 zielony
 złoty
 pomaranczowy
+antracytowy
+czerwony
