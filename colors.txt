@@ -2,5 +2,6 @@ niebieski
 fioletowy
 zielony
 zielony
+kobaltowy
 złoty
 pomaranczowy
